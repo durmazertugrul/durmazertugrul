@@ -6,10 +6,11 @@ mobile 2D games and engine-level systems.
 ---
 ### Connect with me
 
-- **LinkedIn:** https://www.linkedin.com/in/tugruldurmazer/  
-- **Itch.io:** https://tugruldurmazer.itch.io/
-- **Gmail:** mailto:tugrulldurmazer@gmail.com  
-- **Instagram:** https://www.instagram.com/tugruldurmazer/  
+- [LinkedIn](https://www.linkedin.com/in/tugruldurmazer/)
+- [Itch.io](https://tugruldurmazer.itch.io/)
+- [Gmail](mailto:tugrulldurmazer@gmail.com)
+- [Instagram](https://www.instagram.com/tugruldurmazer/)
+
 
 ---
 
@@ -18,10 +19,4 @@ mobile 2D games and engine-level systems.
 - Exploring procedural generation
 
 ---
-
-### 🛠 Tech
-`Unity` `C#` `Game Design`
-
----
-
 *[pesinotes.com](https://pesinotes.com)*

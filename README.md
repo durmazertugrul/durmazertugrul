@@ -4,13 +4,25 @@ Game developer focused on Unity & C#, with a background in
 mobile 2D games and engine-level systems.
 
 ---
-## 🔗 Connect with me
+<h3>Connect with me:</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tugruldurmazer/)
-[![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?logo=itch.io&logoColor=white)](https://tugruldurmazer.itch.io/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:tugrulldurmazer@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/tugruldurmazer/)
+<p align="left">
+  <a href="https://www.linkedin.com/in/tugruldurmazer/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" />
+  </a>
+  
+  <a href="https://tugruldurmazer.itch.io/">
+    <img src="https://static.itch.io/images/itchio-textless-black.svg" width="45" />
+  </a>
+  
+  <a href="https://www.instagram.com/tugruldurmazer/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="45" />
+  </a>
 
+  <a href="mailto:tugrulldurmazer@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="45" />
+  </a>
+</p>
 ---
 
 ### 🎮 What I'm working on

@@ -15,7 +15,8 @@ mobile 2D games and engine-level systems.
 ---
 
 ### 🎮 What I'm working on
-- Improving my Match-3 engine (cascade logic, combo systems)
+- Strengthening my OOP foundations by building console-based C# applications
+- Improving my Match-3 engine
 - Exploring procedural generation
 
 ---

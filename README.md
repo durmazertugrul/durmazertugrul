@@ -14,9 +14,9 @@ mobile 2D games and engine-level systems.
 ---
 
 ### 🎮 What I'm working on
-- Strengthening my OOP foundations by building console-based C# applications
-- Improving my Match-3 engine
-- Exploring procedural generation
+- Strengthening my game development foundations through small Unity projects
+- Practicing algorithmic problem solving in C# through game mechanics implementations
+- Exploring procedural generation and other core systems
 
 ---
 *[pesinotes.com](https://pesinotes.com)*

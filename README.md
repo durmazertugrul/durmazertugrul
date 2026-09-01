@@ -1,4 +1,4 @@
-#Hi , I'm Tuğrul Durmazer
+# Hi , I'm Tuğrul Durmazer
 Game developer focused on Unity & C#, with a background in
 mobile 2D games and engine-level systems. Currently a 4th-year
 Computer Engineering student.

@@ -9,6 +9,7 @@ Computer Engineering student.
 ---
 
 ### 🕹️ Featured Projects
+- [Space Invaders Clone](https://github.com/durmazertugrul/cloneSpaceInvaders) — A Unity recreation of the classic arcade game, with shooting, collisions, scoring and win/lose states ([play on itch.io](https://tugruldurmazer.itch.io/space-invaders-clone))
 - [Flappy Bird Clone](https://github.com/durmazertugrul/cloneFlappyBird) — A Unity recreation of the classic mobile game, built to strengthen core 2D game mechanics
 - [2048 Clone](https://github.com/durmazertugrul/clone2048) — A Unity recreation of the classic 2048 puzzle game, built around a modular grid and tile-state system
 - [Match-3 Engine](https://github.com/durmazertugrul/Match3-Console-Engine) — A console-based Match-3 engine focused on core matching logic and game systems

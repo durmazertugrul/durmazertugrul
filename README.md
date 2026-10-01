@@ -14,7 +14,7 @@ Computer Engineering student.
 
 | [**Fruit Merge**](https://github.com/durmazertugrul/FruitMerge) | [**Paddle Shrink**](https://github.com/durmazertugrul/PaddleShrink-2D-Mobile) |
 |---|---|
-| A fruit-themed merge puzzle built around a 4x4 grid and an eleven-step fruit chain. Fifteen levels whose objectives were selected from a measured difficulty map rather than set by feel, verified across 38,100 simulated games. | A 2D mobile arcade game where the paddle shrinks as the rally goes on, so survival gets harder the longer you last. [Play on itch.io](https://tugruldurmazer.itch.io/paddle-shrink) |
+| A fruit-themed merge puzzle built around a 4x4 grid and an eleven-step fruit chain. Fifteen levels whose objectives were selected from a measured difficulty map rather than set by feel, verified across 38,100 simulated games. [Play on itch.io](https://tugruldurmazer.itch.io/fruitmerge)| A 2D mobile arcade game where the paddle shrinks as the rally goes on, so survival gets harder the longer you last. [Play on itch.io](https://tugruldurmazer.itch.io/paddle-shrink) |
 
 #### Clone Games
 

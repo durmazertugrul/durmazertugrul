@@ -8,11 +8,27 @@ Computer Engineering student.
 
 ---
 
-### 🕹️ Featured Projects
-- [Space Invaders Clone](https://github.com/durmazertugrul/cloneSpaceInvaders) — A Unity recreation of the classic arcade game, with shooting, collisions, scoring and win/lose states
-- [Flappy Bird Clone](https://github.com/durmazertugrul/cloneFlappyBird) — A Unity recreation of the classic mobile game, built to strengthen core 2D game mechanics
-- [2048 Clone](https://github.com/durmazertugrul/clone2048) — A Unity recreation of the classic 2048 puzzle game, built around a modular grid and tile-state system
-- [Match-3 Engine](https://github.com/durmazertugrul/Match3-Console-Engine) — A console-based Match-3 engine focused on core matching logic and game systems
+### 🎮 Games
+
+#### My Projects
+
+| [**Fruit Merge**](https://github.com/durmazertugrul/FruitMerge) | [**Paddle Shrink**](https://github.com/durmazertugrul/PaddleShrink-2D-Mobile) |
+|---|---|
+| A fruit-themed merge puzzle built around a 4x4 grid and an eleven-step fruit chain. Fifteen levels whose objectives were selected from a measured difficulty map rather than set by feel, verified across 38,100 simulated games. | A 2D mobile arcade game where the paddle shrinks as the rally goes on, so survival gets harder the longer you last. [Play on itch.io](https://tugruldurmazer.itch.io/paddle-shrink) |
+
+#### Clone Games
+
+Built to learn the engine, each one focused on a different set of core systems.
+
+- [Space Invaders Clone](https://github.com/durmazertugrul/cloneSpaceInvaders) — shooting, collisions, scoring and win/lose states
+- [Flappy Bird Clone](https://github.com/durmazertugrul/cloneFlappyBird) — core 2D movement and procedural obstacle spawning
+- [2048 Clone](https://github.com/durmazertugrul/clone2048) — a modular grid and tile-state system
+
+---
+
+### ⚙️ Systems
+
+- [Match-3 Engine](https://github.com/durmazertugrul/Match3-Console-Engine) — a console-based Match-3 engine written to isolate the matching logic from any rendering layer
 
 ---
 
@@ -21,10 +37,10 @@ C# · Unity · Git
 
 ---
 
-### 🎮 What I'm working on
-- Strengthening my game development foundations through small Unity projects
-- Practicing algorithmic problem solving in C# through game mechanics implementations
-- Exploring procedural generation and other core systems
+### 🎯 What I'm working on
+- Shipping original mobile games and iterating on them after release
+- Designing level progression from measured data rather than intuition
+- Exploring procedural generation and other core gameplay systems
 
 ---
 

@@ -1,9 +1,7 @@
 <h1 align="center">Hi👋 I'm Tuğrul Durmazer</h1>
 
 <p align="center">
-Game developer focused on Unity & C#, with a background in
-mobile 2D games and engine-level systems. Currently a 4th-year
-Computer Engineering student.
+Game developer building mobile 2D games and level systems with Unity and C#. Final-year Computer Engineering student.
 </p>
 
 ---

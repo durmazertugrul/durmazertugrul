@@ -12,11 +12,11 @@ Game developer building mobile 2D games and level systems with Unity and C#. Fin
 
 | [**Ding Ding! Boxing Match-3**](https://github.com/durmazertugrul/DingDing) |
 |---|
-| A match-3 board run under the rules of a boxing match: three rounds against one health pool, a corner card chosen between rounds, and a knockout worth more than a win on points. The rules are a standalone C# library with no engine dependency, covered by 87 automated tests and balanced with a simulator that plays every level 2,000 times with three different bots. The difficulty curve of all ten levels was derived from measured damage per move, and both the method and the numbers are published with the source. [Play on itch.io](https://tugruldurmazer.itch.io/dingding) |
+| A match-3 board run under the rules of a boxing match: three rounds against one health pool, with a corner card chosen between rounds. The rules are a standalone C# library covered by 87 tests, and all ten levels were balanced from measured data across 2,000 simulated matches each. [Play on itch.io](ITCH_IO_LINK) |
 
 | [**Fruit Merge**](https://github.com/durmazertugrul/FruitMerge) | [**Paddle Shrink**](https://github.com/durmazertugrul/PaddleShrink-2D-Mobile) |
 |---|---|
-| A fruit-themed merge puzzle built around a 4x4 grid and an eleven-step fruit chain. Fifteen levels whose objectives were selected from a measured difficulty map rather than set by feel, verified across 38,100 simulated games. [Play on itch.io](https://tugruldurmazer.itch.io/fruitmerge) | A 2D mobile arcade game where the paddle shrinks as the rally goes on, so survival gets harder the longer you last. [Play on itch.io](https://tugruldurmazer.itch.io/paddle-shrink) |
+| A fruit-themed merge puzzle on a 4x4 grid with an eleven-step fruit chain. Fifteen levels whose objectives came from a measured difficulty map rather than feel, verified across 38,100 simulated games. [Play on itch.io](https://tugruldurmazer.itch.io/fruitmerge) | A 2D mobile arcade game where the paddle shrinks as the rally goes on, so survival gets harder the longer you last. [Play on itch.io](https://tugruldurmazer.itch.io/paddle-shrink) |
 
 #### Clone Games
 
